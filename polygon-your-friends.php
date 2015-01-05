@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Polygon your friends information
-  Plugin URI: http://CafeFreelancer.com
+  Plugin URI: http://cafefreelancer.com/vi/wordpress/wordpress-plugins/polygon-plugins/
   Description: Your friends with avatar and information
   Version: 1.0
   Author: CafeFreelancer.com

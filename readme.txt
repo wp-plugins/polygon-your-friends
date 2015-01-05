@@ -1,6 +1,6 @@
 ﻿=== Polygon Your Friends ===
-Contributors: CafeFreelancer
-Donate link: http://CafeFreelancer.com
+Contributors: sanddesert88@gmail.com
+Donate link: http://cafefreelancer.com/vi/wordpress/wordpress-plugins/polygon-plugins/
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 Tags: display user, user friend, user information
@@ -8,12 +8,12 @@ Requires at least: 3.8
 Tested up to: 4.1
 Stable tag: 1.6.3
 
-Polygon Your Friens: Display user friends better. Support display user avatar, information, sort by...
+Polygon Your Friends: Display user friends better. Support display user avatar, information, sort by, scroll...
 
 == Description ==
-Display user friends in sidebar with user avatar, information, display by sort, shuffle...
+Display user friends in sidebar with user avatar, information, display by sort, shuffle, scroll...
 <a href="http://wordpress.org/plugins/polygon-your-friends/faq/" target="_blank">FAQ</a>
-<a href="http://CafeFreelancer.com" target="_blank">Support</a>
+<a href="http://cafefreelancer.com/vi/wordpress/wordpress-plugins/polygon-plugins/" target="_blank">Support</a>
 
 == Installation ==
 
