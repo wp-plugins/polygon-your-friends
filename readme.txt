@@ -17,7 +17,7 @@ Display user friends in sidebar with user avatar, information, display by sort, 
 
 == Installation ==
 
-1. Upload the `polygon-your-friends-with-info` folder to the `/wp-content/plugins/` directory
+1. Upload the `polygon-your-friends` folder to the `/wp-content/plugins/` directory
 1. Activate the Polygon Your Friends plugin through the 'Plugins' menu in WordPress
 1. Configure the plugin by going to the `Widgets` appears in your widgets "Polygon your friends"
 
