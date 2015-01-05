@@ -1,5 +1,5 @@
 ﻿=== Polygon Your Friends ===
-Contributors: sanddesert88@gmail.com
+Contributors: sanddesert88
 Donate link: http://cafefreelancer.com/vi/wordpress/wordpress-plugins/polygon-plugins/
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
